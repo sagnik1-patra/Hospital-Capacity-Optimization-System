@@ -1,0 +1,5 @@
+Model,Accuracy,R2_Score,MAE,RMSE
+AIS + ANN Classifier,1.0,,,
+AIS + Random Forest Classifier,1.0,,,
+AIS + Decision Tree Classifier,1.0,,,
+AIS + Random Forest Regressor,,-0.11491100142142077,0.7119310226810227,0.9168398538784165

@@ -1,0 +1,29 @@
+project_name: PSO Based Smart Healthcare Resource Allocation and Hospital Capacity
+  Optimization System
+algorithm: Particle Swarm Optimization
+model_type: ANN, Random Forest, Decision Tree, PSO Optimization
+features:
+- Sanctioned Bed Strength (in Numbers) as on 01.01.2018
+- Doctors_Required
+- Nurses_Required
+- ICU_Beds_Required
+- Ambulances_Required
+- Emergency_Staff_Required
+- Equipment_Score
+- PSO_Optimized_Doctors
+- PSO_Optimized_Nurses
+- PSO_Optimized_ICU_Beds
+- PSO_Optimized_Ambulances
+- PSO_Optimized_Emergency_Staff
+target: Capacity_Category
+classes:
+- Large
+- Medium
+- Small
+- Very Large
+ann_accuracy: 1.0
+random_forest_accuracy: 1.0
+decision_tree_accuracy: 1.0
+regression_r2: -0.07851540792059844
+regression_mae: 0.3163064750064751
+regression_rmse: 0.5638967096169059

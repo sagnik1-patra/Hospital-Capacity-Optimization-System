@@ -1,0 +1,5 @@
+Model,Accuracy,R2_Score,MAE,RMSE
+CSA + ANN Classifier,1.0,,,
+CSA + Random Forest Classifier,1.0,,,
+CSA + Decision Tree Classifier,1.0,,,
+CSA + Random Forest Regressor,,0.33713450513737686,0.7012165279165281,0.9231542769528402

@@ -1,0 +1,30 @@
+S.No,Name of the Headquarters Hospital,Sanctioned Bed Strength (in Numbers) as on 01.01.2018,Doctors_Required,Nurses_Required,ICU_Beds_Required,Ambulances_Required,Emergency_Staff_Required,Equipment_Score,Capacity_Category,AIS_Optimized_Doctors,AIS_Optimized_Nurses,AIS_Optimized_ICU_Beds,AIS_Optimized_Ambulances,AIS_Optimized_Emergency_Staff,Capacity_Label,AIS_Predicted_Capacity_Category,AIS_Predicted_AIS_Optimized_Doctors,AIS_Predicted_AIS_Optimized_Nurses,AIS_Predicted_AIS_Optimized_ICU_Beds,AIS_Predicted_AIS_Optimized_Ambulances,AIS_Predicted_AIS_Optimized_Emergency_Staff
+1,"Arignar Anna Government Hospital of Indian Medicine, Chennai",275,14,55,42,3,11,125,Large,12,54,42,4,13,0,Large,13,53,41,4,12
+2,"Varma Department, Chennai",35,2,7,6,1,2,18,Small,1,10,9,1,3,2,Small,1,9,8,1,3
+3,"Government Siddha Medical College Hospital, Palayamkottai",350,18,70,53,4,14,159,Very Large,18,65,54,5,14,3,Very Large,15,57,46,4,12
+4,"Government Homeopathy Medical College, Tirumangalam",50,3,10,8,1,2,24,Small,2,11,11,1,1,2,Small,2,11,8,1,2
+5,"Government Ayurveda Medical College, Kottar, Nagercoil",100,5,20,15,1,4,45,Medium,6,27,16,2,5,1,Medium,5,22,13,2,4
+6,"Government Yoga and Naturopathy Medical College, Chennai",50,3,10,8,1,2,24,Small,2,12,6,1,2,2,Small,2,11,8,1,2
+7,"District Headquarters Hospital, Kancheepuram",25,2,5,4,1,1,13,Small,1,7,3,1,1,2,Small,2,6,4,1,1
+8,"Medical College and Hospital, Vellore",25,2,5,4,1,1,13,Small,2,5,6,1,1,2,Small,2,6,4,1,1
+9,"District Headquarters Hospital, Nagapattinam",25,2,5,4,1,1,13,Small,4,6,3,1,1,2,Small,2,6,4,1,1
+10,"District Headquarters Hospital, Dindigul",25,2,5,4,1,1,13,Small,1,5,3,1,2,2,Small,2,6,4,1,1
+11,"District Headquarters Hospital, Tiruppur",25,2,5,4,1,1,13,Small,3,8,6,2,2,2,Small,2,6,4,1,1
+12,"District Headquarters Hospital, Erode",25,2,5,4,1,1,13,Small,1,4,3,1,1,2,Small,2,6,4,1,1
+13,"District Headquarters Hospital, Cuddalore",15,1,3,3,1,1,9,Small,1,3,5,1,2,2,Small,1,3,4,1,1
+14,"District Headquarters Hospital, Ramanathapuram",15,1,3,3,1,1,9,Small,1,2,5,1,1,2,Small,1,3,4,1,1
+15,"Medical College and Hospital, Thoothukudi",15,1,3,3,1,1,9,Small,1,2,5,1,1,2,Small,1,3,4,1,1
+16,"District Headquarters Hospital, Pennagram, Dharmapuri",15,1,3,3,1,1,9,Small,1,5,5,1,1,2,Small,1,3,4,1,1
+17,"Medical College and Hospital, Tiruchirappalli",16,1,4,3,1,1,10,Small,1,3,2,1,1,2,Small,1,4,4,1,2
+18,"Medical College and Hospital, Nagercoil",16,1,4,3,1,1,10,Small,1,3,5,1,2,2,Small,1,4,4,1,2
+19,"District Headquarters Hospital, Virudhunagar",16,1,4,3,1,1,10,Small,2,3,5,2,2,2,Small,1,4,4,1,2
+20,"District Headquarters Hospital, Sivaganga",16,1,4,3,1,1,10,Small,2,6,5,1,2,2,Small,1,4,4,1,2
+21,"District Headquarters Hospital, Kumbakonam",16,1,4,3,1,1,10,Small,2,6,2,1,1,2,Small,1,4,4,1,2
+22,"District Headquarters Hospital, Karur",16,1,4,3,1,1,10,Small,1,3,3,1,2,2,Small,1,4,4,1,2
+23,"District Headquarters Hospital, Villupuram",16,1,4,3,1,1,10,Small,1,6,4,1,1,2,Small,1,4,4,1,2
+24,"District Headquarters Hospital, Tiruvarur",16,1,4,3,1,1,10,Small,1,5,3,1,2,2,Small,1,4,4,1,2
+25,"District Headquarters Hospital, Mettur Dam",16,1,4,3,1,1,10,Small,2,3,2,1,1,2,Small,1,4,4,1,2
+26,"District Headquarters Hospital, Namakkal",16,1,4,3,1,1,10,Small,1,3,5,1,1,2,Small,1,4,4,1,2
+27,"Taluk Hospital, Chidambaram",15,1,3,3,1,1,9,Small,1,2,2,2,1,2,Small,1,3,4,1,1
+28,"Non-Taluk Hospital, Kadayanallur, Tirunelveli",15,1,3,3,1,1,9,Small,1,2,5,2,2,2,Small,1,3,4,1,1
+Total,Total,1260,63,252,189,13,51,568,Very Large,65,253,193,13,53,3,Very Large,45,176,135,10,37

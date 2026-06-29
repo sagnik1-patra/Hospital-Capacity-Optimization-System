@@ -1,0 +1,23 @@
+project_name: Smart Healthcare Resource Allocation and Hospital Capacity Optimization
+  System
+model_type: ANN, Random Forest, Decision Tree
+features:
+- Sanctioned Bed Strength (in Numbers) as on 01.01.2018
+- Doctors_Required
+- Nurses_Required
+- ICU_Beds_Required
+- Ambulances_Required
+- Emergency_Staff_Required
+- Equipment_Score
+target: Capacity_Category
+classes:
+- Large
+- Medium
+- Small
+- Very Large
+ann_accuracy: 1.0
+random_forest_accuracy: 1.0
+decision_tree_accuracy: 1.0
+regression_r2: 0.99992
+regression_mae: 0.002666666666666625
+regression_rmse: 0.005163977794943141

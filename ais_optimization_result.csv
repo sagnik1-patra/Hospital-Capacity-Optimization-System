@@ -1,0 +1,30 @@
+Name of the Headquarters Hospital,Sanctioned Bed Strength (in Numbers) as on 01.01.2018,Doctors_Required,AIS_Optimized_Doctors,Nurses_Required,AIS_Optimized_Nurses,ICU_Beds_Required,AIS_Optimized_ICU_Beds,Ambulances_Required,AIS_Optimized_Ambulances,Emergency_Staff_Required,AIS_Optimized_Emergency_Staff
+"Arignar Anna Government Hospital of Indian Medicine, Chennai",275,14,12,55,54,42,42,3,4,11,13
+"Varma Department, Chennai",35,2,1,7,10,6,9,1,1,2,3
+"Government Siddha Medical College Hospital, Palayamkottai",350,18,18,70,65,53,54,4,5,14,14
+"Government Homeopathy Medical College, Tirumangalam",50,3,2,10,11,8,11,1,1,2,1
+"Government Ayurveda Medical College, Kottar, Nagercoil",100,5,6,20,27,15,16,1,2,4,5
+"Government Yoga and Naturopathy Medical College, Chennai",50,3,2,10,12,8,6,1,1,2,2
+"District Headquarters Hospital, Kancheepuram",25,2,1,5,7,4,3,1,1,1,1
+"Medical College and Hospital, Vellore",25,2,2,5,5,4,6,1,1,1,1
+"District Headquarters Hospital, Nagapattinam",25,2,4,5,6,4,3,1,1,1,1
+"District Headquarters Hospital, Dindigul",25,2,1,5,5,4,3,1,1,1,2
+"District Headquarters Hospital, Tiruppur",25,2,3,5,8,4,6,1,2,1,2
+"District Headquarters Hospital, Erode",25,2,1,5,4,4,3,1,1,1,1
+"District Headquarters Hospital, Cuddalore",15,1,1,3,3,3,5,1,1,1,2
+"District Headquarters Hospital, Ramanathapuram",15,1,1,3,2,3,5,1,1,1,1
+"Medical College and Hospital, Thoothukudi",15,1,1,3,2,3,5,1,1,1,1
+"District Headquarters Hospital, Pennagram, Dharmapuri",15,1,1,3,5,3,5,1,1,1,1
+"Medical College and Hospital, Tiruchirappalli",16,1,1,4,3,3,2,1,1,1,1
+"Medical College and Hospital, Nagercoil",16,1,1,4,3,3,5,1,1,1,2
+"District Headquarters Hospital, Virudhunagar",16,1,2,4,3,3,5,1,2,1,2
+"District Headquarters Hospital, Sivaganga",16,1,2,4,6,3,5,1,1,1,2
+"District Headquarters Hospital, Kumbakonam",16,1,2,4,6,3,2,1,1,1,1
+"District Headquarters Hospital, Karur",16,1,1,4,3,3,3,1,1,1,2
+"District Headquarters Hospital, Villupuram",16,1,1,4,6,3,4,1,1,1,1
+"District Headquarters Hospital, Tiruvarur",16,1,1,4,5,3,3,1,1,1,2
+"District Headquarters Hospital, Mettur Dam",16,1,2,4,3,3,2,1,1,1,1
+"District Headquarters Hospital, Namakkal",16,1,1,4,3,3,5,1,1,1,1
+"Taluk Hospital, Chidambaram",15,1,1,3,2,3,2,1,2,1,1
+"Non-Taluk Hospital, Kadayanallur, Tirunelveli",15,1,1,3,2,3,5,1,2,1,2
+Total,1260,63,65,252,253,189,193,13,13,51,53

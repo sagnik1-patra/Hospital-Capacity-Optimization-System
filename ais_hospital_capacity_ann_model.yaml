@@ -1,0 +1,29 @@
+project_name: AIS Based Smart Healthcare Resource Allocation and Hospital Capacity
+  Optimization System
+algorithm: Artificial Immune System
+model_type: ANN, Random Forest, Decision Tree, AIS Optimization
+features:
+- Sanctioned Bed Strength (in Numbers) as on 01.01.2018
+- Doctors_Required
+- Nurses_Required
+- ICU_Beds_Required
+- Ambulances_Required
+- Emergency_Staff_Required
+- Equipment_Score
+- AIS_Optimized_Doctors
+- AIS_Optimized_Nurses
+- AIS_Optimized_ICU_Beds
+- AIS_Optimized_Ambulances
+- AIS_Optimized_Emergency_Staff
+target: Capacity_Category
+classes:
+- Large
+- Medium
+- Small
+- Very Large
+ann_accuracy: 1.0
+random_forest_accuracy: 1.0
+decision_tree_accuracy: 1.0
+regression_r2: -0.11491100142142077
+regression_mae: 0.7119310226810227
+regression_rmse: 0.9168398538784165

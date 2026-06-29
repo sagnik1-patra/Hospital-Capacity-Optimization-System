@@ -134,6 +134,9 @@ Used for:
 
 ---
 
+![AIS Convergence Graph](ais_convergence_graph.png)
+
+
 ## 4. Random Forest Regressor
 
 Used for predicting:

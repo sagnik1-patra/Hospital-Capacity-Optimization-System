@@ -2,8 +2,6 @@
 
 > **Artificial Immune System (AIS) Optimized Machine Learning for Intelligent Hospital Resource Allocation**
 
-![AIS Convergence Graph](ais_convergence_graph.png)
-
 ---
 
 # 📌 Project Overview

@@ -86,7 +86,6 @@ The algorithm follows these steps:
 
 The convergence of the optimization process is shown below.
 
-![AIS Optimization](ais_convergence_graph.png)
 
 ---
 
